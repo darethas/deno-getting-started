@@ -8,3 +8,4 @@ Deno is relatively straightforward. It is a self contained binary that can run j
 organized into folders in this repo.
 
 - `hello_world`: steps to get deno installed and run a simple hello world example
+- `http_server`: explores importing code, deno's sandboxed execution model, and running a simple http server
